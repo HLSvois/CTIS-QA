@@ -1,3 +1,2 @@
-# CTIS-QA
-
+# [BIBM 2025]CTIS-QA: Clinical Template-Informed Slide-level Question Answering for Pathology
 Coming soon...
